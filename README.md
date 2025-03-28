@@ -1,3 +1,4 @@
 # Bulanık Mantık Alanında Kaynak Kitaplar
 
-## Bulanık Mantık ile 
+## Bulanık Mantık ile ilgili 
+
