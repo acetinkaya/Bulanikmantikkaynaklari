@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Bulanık 
+**Bulanık Mantık** 
