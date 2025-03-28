@@ -1,1 +1,1 @@
-# Bulanık Mantık Alanında 
+# Bulanık Mantık Alanında Kaynak 
