@@ -6,4 +6,4 @@
 
 **Bulanık Mantık** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
-Bu sayfa
+Bu sayfa öğrenciler,
