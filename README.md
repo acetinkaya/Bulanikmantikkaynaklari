@@ -1,1 +1,1 @@
-# Bulanık 
+# Bulanık Mantık 
