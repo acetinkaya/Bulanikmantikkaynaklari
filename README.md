@@ -4,5 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Bulanık Mantık** alanında 
+**Bulanık Mantık** alanında temel ve 
 
