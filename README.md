@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Öğr. Gör. Ali ÇETİNKAYA, 
+1. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve 
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
