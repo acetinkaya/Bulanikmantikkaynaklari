@@ -18,7 +18,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-| **Bulanık Mantık ve Python Uygulamaları** | Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak kitaptır. |  978-605-4827-98-5 | IGU Yayınları	| 
+| **Bulanık Mantık ve Python Uygulamaları** | Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak kitaptır. |  978-605-4827-98-5 | IGU Yayınları	| [ Link ](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987) | 1 |
+
 ---
 
 1. Deneme
