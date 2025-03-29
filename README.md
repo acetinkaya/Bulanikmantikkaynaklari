@@ -22,7 +22,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Deneme
+1. Öğr. Gör. 
+
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
