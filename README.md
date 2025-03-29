@@ -18,7 +18,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-| **Bulanık Mantık ve Python Uygulamaları** | Bulanık Mantık konusunda python 
+| **Bulanık Mantık ve Python Uygulamaları** | Bulanık Mantık konusunda python programlama dili ile 
 ---
 
 1. Deneme
